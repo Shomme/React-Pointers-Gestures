@@ -1,9 +1,7 @@
 # Pointer
 
 ## Демо
-```
 http://shom.me/pointer-test
-```
 
 ## Список событий
 * onTap
