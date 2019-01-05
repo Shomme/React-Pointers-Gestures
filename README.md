@@ -1,5 +1,10 @@
 # Pointer
 
+## Демо
+```
+http://shom.me/pointer-test
+```
+
 ## Список событий
 * onTap
 * onDoubleTap
@@ -10,6 +15,7 @@
 * onRotate
 * onPressDown
 * onPressUp
+* onRotate
 
 ## Как использовать
 ```
@@ -30,6 +36,8 @@
 	</Pointer>
 </div>
 ```
+
+
 
 ## Данные объекта события (Basic)
 
